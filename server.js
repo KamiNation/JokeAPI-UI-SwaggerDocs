@@ -10,7 +10,7 @@ import path from 'path'
 import cors from "cors"
 
 // import custom files
-import {notFound } from "../6.0 DIY API/server/controllers/controller.js"
+import {notFound } from "./server/controllers/controller.js"
 import swaggerDocs from "./swagger.js";
 
 
